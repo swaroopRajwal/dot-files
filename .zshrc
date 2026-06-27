@@ -5,6 +5,8 @@ alias ls="eza --icons=always --hyperlink"
 alias start-docker="colima start"
 alias stop-docker="colima stop"
 
+alias c="clear"
+
 # git aliases
 alias review="git merge --no-ff --no-commit"
 alias merge="git merge"
